@@ -42,6 +42,6 @@ int main ()
    {
        std :: cout <<"The remaining quantity = 5!" << std :: endl;
    }
-   std :: cout <<"Your Remaining Cash is " << reamining << " Please Spend carefully!\n";
+   std :: cout <<"Your Remaining Cash is " << remaining << " Please Spend carefully!\n";
    return 0;
 }
