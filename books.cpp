@@ -13,15 +13,14 @@ int main ()
       return 1;
     }   
    double reamining =15532;
-   int books =5;
    double price = 4555.99;
    std :: cout <<"Enter your desired quantity:\n";
    int wanted;
    std :: cin >> wanted;
-   int total = price * wanted;
+   double total = price * wanted;
    if (wanted == 5)
    {
-       std :: cout <<"The total price is " << total <<" Do you want to procced!\n";
+       std :: cout <<"The total price is " << total <<" Do you want to continue!\n";
    }
    else if ( wanted == 4)
    {
