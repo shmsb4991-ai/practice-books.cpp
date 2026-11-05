@@ -22,7 +22,7 @@ int main ()
    int total = price * wanted;
    if (wanted == 5)
    {
-       std :: cout <<"The t0tal price is " << total <<" Do you want to procced!\n";
+       std :: cout <<"The total price is " << total <<" Do you want to procced!\n";
    }
    else if ( wanted == 4)
    {
@@ -42,7 +42,7 @@ int main ()
    }
    else 
    {
-       std :: cout <<"The reamining quanitty = 5!" << std :: endl;
+       std :: cout <<"The reamining quantity = 5!" << std :: endl;
    }
    std :: cout <<"Your Remaining Cash is " << reamining << " Please Spend carefully!\n";
    return 0;
