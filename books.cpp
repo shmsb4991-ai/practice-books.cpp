@@ -40,7 +40,7 @@ int main ()
    }
    else 
    {
-       std :: cout <<"The reamining quantity = 5!" << std :: endl;
+       std :: cout <<"The remaining quantity = 5!" << std :: endl;
    }
    std :: cout <<"Your Remaining Cash is " << reamining << " Please Spend carefully!\n";
    return 0;
