@@ -7,7 +7,7 @@ int main ()
    getline (std :: cin,name);
    int age;
    std :: cout << "Enter your Age:\n";
-   if (! std :: cin >>age)
+   if (! (std :: cin >>age))
     {
       std ::  cout <<"Error! Enter numbers only! \n";
       return 1;
