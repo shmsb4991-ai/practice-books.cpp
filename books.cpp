@@ -12,7 +12,7 @@ int main ()
       std ::  cout <<"Error! Enter numbers only! \n";
       return 1;
     }   
-   double reamining =15532;
+   double remaining =15532;
    double price = 4555.99;
    std :: cout <<"Enter your desired quantity:\n";
    int wanted;
